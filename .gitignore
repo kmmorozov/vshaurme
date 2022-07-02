@@ -12,6 +12,8 @@ static/*
 vk_config.v2.json
 vshaurme/settings/local.py
 /.idea/
+/.vscode
+/.DS_Store
 # C extensions
 *.so
 
