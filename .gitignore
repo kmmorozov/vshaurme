@@ -16,6 +16,7 @@ vshaurme/settings/local.py
 /.DS_Store
 # C extensions
 *.so
+*.sqlite3
 
 # Distribution / packaging
 .Python
