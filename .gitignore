@@ -11,7 +11,7 @@ static/*
 *.sql
 vk_config.v2.json
 vshaurme/settings/local.py
-
+/.idea/
 # C extensions
 *.so
 
